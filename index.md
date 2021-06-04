@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /home/
+title: home
+
 ---
 
 Testing a home
