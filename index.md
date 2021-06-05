@@ -4,8 +4,21 @@ title: Elaine Lin Hering
 
 ---
 
+
+
+
+
 # HI! I'M ELAINE
+
+
 WRITER // SPEAKER // ALL AROUND KICKASS HUMAN
+
+
+![Elaine](/images/head1.jpg)
+![Elaine](/images/head2.jpg)
+![Elaine](/images/head3.jpg)
+
+
 
 # Lorem ipsum dolor sit amet
 
