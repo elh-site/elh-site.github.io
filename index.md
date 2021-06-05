@@ -3,8 +3,6 @@ layout: home
 title: Elaine Lin Hering
 
 ---
-<center>
-
 
 # HI! I'M ELAINE
 WRITER // SPEAKER // ALL AROUND KICKASS HUMAN
@@ -23,4 +21,4 @@ Proin faucibus aliquet gravida. Suspendisse sit amet leo arcu. Morbi fringilla d
 #WANT TO GET IN TOUCH?
 
 ## Subheader
-</center>
+
