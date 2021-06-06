@@ -44,3 +44,17 @@ Proin faucibus aliquet gravida. Suspendisse sit amet leo arcu. Morbi fringilla d
 
 ## NEWSLETTER
 
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/elaine-lin-hering"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/elaine-lin-hering', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="hidden" value="1" name="embed" />
+  <input type="submit" value="Subscribe" />
+</form>
+
+###### Always thoughful. Never Spam.
