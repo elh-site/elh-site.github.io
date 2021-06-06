@@ -1,30 +1,14 @@
 ---
 layout: home
-title: Elaine Lin Hering
+title: HI! I'M ELAINE
 
 ---
   
-  
-  
-  
-  
-  
-  
-# HI! I'M ELAINE
-  
-  
-  
-  
-  
-  
-  
-WRITER // SPEAKER // ALL AROUND KICKASS HUMAN
-
+ WRITER // SPEAKER // ALL AROUND KICKASS HUMAN
 
 ![Elaine](/images/head1.jpg)
 ![Elaine](/images/head2.jpg)
 ![Elaine](/images/head3.jpg)
-
 
 
 ## Lorem ipsum dolor sit amet
